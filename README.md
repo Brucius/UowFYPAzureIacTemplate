@@ -10,4 +10,4 @@ You'll first have to get a trial Azure subscription in order to provision the ba
   <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png"/>
 </a>
 
-This template provides a easy way to deploy web app on Azure Web Apps on Windows with Azure database for MySQL.
+Video for configuring the web service coming soon..
